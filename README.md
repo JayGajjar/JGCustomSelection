@@ -1,5 +1,5 @@
 JGCustomSelection
-<<<<<<< HEAD
+HEAD
 ========================
 
 A selection controller made with combinitation of UITableView and UICollectionview
@@ -38,6 +38,3 @@ JGCustomSelection includes a sample project and revelent classes.
 
 # License
 JGCustomSelection is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
-=======
-=================
->>>>>>> 8c0a9cb73879fbc1bd726f2074a95355ca0c292a
